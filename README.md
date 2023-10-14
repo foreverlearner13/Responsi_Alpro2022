@@ -8,4 +8,4 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima:
 * Lorem Ipsum, H1D020200, [oo.or.id](https://oo.or.id).
-* Athallah Tsany Striyaji, H1D023013, [github.com](https://github.com/athallahdx).
+* Athallah Tsany Striyaji, H1D023013, [github.com/athallahdx](https://github.com).
