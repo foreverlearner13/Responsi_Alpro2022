@@ -7,4 +7,4 @@ Silakan gunakan format berikut:<br>
 **\* Nama, NIM, [LinkedIn/GitHub](Alamat URL).**  
 
 Berikut adalah daftar Volunter yang diterima:
-* Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Oon Arfiandwi, H1D020200 [oo.or.id](https://oo.or.id).
